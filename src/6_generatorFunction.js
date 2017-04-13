@@ -45,10 +45,6 @@ function* infiniteNumbers() {
 
 function* accumulateValues() {
     // adds and yield the result, starts with 0
-    let n = 0
-    while (true) {
-        n += yield n
-    }
 }
 
 module.exports = {
