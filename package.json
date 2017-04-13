@@ -1,0 +1,10 @@
+{
+  "name": "es6-kata",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "private": true,
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
